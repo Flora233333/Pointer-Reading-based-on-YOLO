@@ -1,0 +1,10 @@
+numpy>=1.24.2
+onnx>=1.13.1
+onnxruntime-gpu>=1.14.1
+opencv-python>=4.5.4.58
+scikit-image>=0.20.0
+scipy>=1.9.1
+sympy>=1.11.1
+torch>=2.0.0
+torchvision>=0.15.1
+tqdm>=4.65.0
